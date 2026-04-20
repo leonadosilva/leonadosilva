@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @leonadosilva
 - 👀 I’m interested in Technology!
-- 🌱 I’m currently learning Cripto!
-- 💞️ I’m looking to collaborate on Cripto Projects
 - 📫 How to reach me leonado@gmail.com
 
 <!---
